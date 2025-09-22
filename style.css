@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(255, 255, 255, 0.203);
+    background-image: url("./pictures/new-york-mets-3840x2160-14590\ \(1\).jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+h1 { 
+
+    font-size: 72px;
+    margin-top: 10%;
+    text-align: left;
+    font-family:fantasy; 
+    background:linear-gradient(to right,rgba(255, 103, 2, 0.91), rgba(255, 255, 254, 0.734) 90%);color: rgb(4, 3, 3);
+
+}
+
+h2 {
+
+    margin-top: 7%;
+    font-size: 36px;
+    text-align: left;
+    font-family: fantasy;
+    background:linear-gradient(to right,rgba(255, 103, 2, 0.91), rgba(255, 255, 254, 0.734) 90%);color: rgb(4, 3, 3);
+}
+
+p {
+    font-size: 20px ;
+}
+
+a {
+    color: rgba(255, 137, 3, 0.51);
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+li{
+    font-size: 25px;
+    color: black;
+}
+
